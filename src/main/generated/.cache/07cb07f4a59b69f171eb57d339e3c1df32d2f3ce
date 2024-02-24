@@ -1,0 +1,13 @@
+// 1.20.4	2024-02-24T21:05:48.1916219	Liquor/Tags for minecraft:block
+09cce6c277a2e5a5a5f011c1f868fc280801546c data\minecraft\tags\blocks\fences.json
+f4c7235b81a34a36d16f871c4dbbdeba6ac1c511 data\minecraft\tags\blocks\walls.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\hoe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_iron_tool.json
+fc2174b190e371f4f9b809e83aab51f96a0cab73 data\minecraft\tags\blocks\fence_gates.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\fabric\tags\blocks\needs_tool_level_4.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\shovel.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\pickaxe.json
+b4012b66484ba728f6efb3912746fcb3dea76822 data\minecraft\tags\blocks\logs_that_burn.json

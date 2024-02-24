@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "liquor:block/stripped_cherry_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "liquor:block/stripped_cherry_wood"
+    },
+    "axis=z": {
+      "model": "liquor:block/stripped_cherry_wood",
+      "x": 90
+    }
+  }
+}

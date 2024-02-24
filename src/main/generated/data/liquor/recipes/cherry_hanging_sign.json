@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "liquor:stripped_cherry_log"
+    },
+    "S": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "S S",
+    "CCC",
+    "CCC"
+  ],
+  "result": {
+    "count": 6,
+    "item": "liquor:cherry_hanging_sign"
+  }
+}

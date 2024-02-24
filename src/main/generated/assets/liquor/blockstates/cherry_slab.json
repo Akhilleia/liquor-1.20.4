@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "liquor:block/cherry_slab"
+    },
+    "type=double": {
+      "model": "liquor:block/cherry_planks"
+    },
+    "type=top": {
+      "model": "liquor:block/cherry_slab_top"
+    }
+  }
+}

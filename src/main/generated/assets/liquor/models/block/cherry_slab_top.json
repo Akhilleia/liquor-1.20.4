@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "liquor:block/cherry_planks",
+    "side": "liquor:block/cherry_planks",
+    "top": "liquor:block/cherry_planks"
+  }
+}

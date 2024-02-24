@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:cherry_planks"
+    }
+  },
+  "pattern": [
+    "C C",
+    "CCC"
+  ],
+  "result": {
+    "item": "liquor:cherry_boat"
+  }
+}

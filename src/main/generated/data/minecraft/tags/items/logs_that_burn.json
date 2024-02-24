@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "liquor:cherry_log",
+    "liquor:cherry_wood",
+    "liquor:stripped_cherry_log",
+    "liquor:stripped_cherry_wood"
+  ]
+}

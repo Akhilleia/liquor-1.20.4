@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "liquor:cherry_boat"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "pattern": [
+    "CB ",
+    "   "
+  ],
+  "result": {
+    "item": "liquor:cherry_chest_boat"
+  }
+}
