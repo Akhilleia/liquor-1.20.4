@@ -1,0 +1,12 @@
+{
+  "type": "liquor:shaker",
+  "ingredients": [
+    {
+      "item": "liquor:grape"
+    }
+  ],
+  "output": {
+    "item": "liquor:wine",
+    "count": 1
+  }
+}

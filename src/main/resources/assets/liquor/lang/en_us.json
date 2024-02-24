@@ -1,0 +1,70 @@
+{
+  "item.liquor.whisky": "Whisky",
+  "item.liquor.tequila": "Tequila",
+  "item.liquor.beer": "Beer",
+  "item.liquor.rum": "Rum",
+  "item.liquor.gin": "Gin",
+  "item.liquor.vodka": "Vodka",
+  "item.liquor.mead": "Mead",
+  "item.liquor.wine": "Wine",
+  "item.liquor.champagne": "Champagne",
+  "item.liquor.brandy": "Brandy",
+  "item.liquor.vermouth": "Vermouth",
+  "item.liquor.cider": "Cider",
+  "item.liquor.absinthe": "Absinthe",
+  "item.liquor.schnapps": "Schnapps",
+  "item.liquor.grappa": "Grappa",
+  "item.liquor.coke": "Coke",
+
+  "item.liquor.liquor_bottle": "Liquor Bottle",
+
+
+  "item.liquor.rice": "Rice",
+  "item.liquor.oryza_sativa": "Oryza Sativa",
+
+  "item.liquor.grape": "Grape",
+
+  "item.liquor.grain_mash": "Grain Mash",
+
+  "item.liquor.barley": "Barley",
+  "item.liquor.barley_seeds": "Barley Seeds",
+
+  "item.liquor.corn": "Corn",
+  "item.liquor.corn_seeds": "Corn Seeds",
+
+  "block.liquor.cherry_log": "Cherry Log",
+  "block.liquor.cherry_wood": "Cherry Wood",
+  "block.liquor.stripped_cherry_log": "Stripped Cherry Log",
+  "block.liquor.stripped_cherry_wood": "Stripped Cherry wood",
+  "block.liquor.cherry_planks": "Cherry Planks",
+  "block.liquor.cherry_leaves": "Cherry Leaves",
+
+  "block.liquor.cherry_stairs": "Cherry Stairs",
+  "block.liquor.cherry_slab": "Cherry Slab",
+  "block.liquor.cherry_button": "Cherry Button",
+  "block.liquor.cherry_pressure_plate": "Cherry Pressure Plate",
+  "block.liquor.cherry_fence": "Cherry Fence",
+  "block.liquor.cherry_fence_gate": "Cherry Fence Gate",
+  "block.liquor.cherry_wall": "Cherry Wall",
+  "block.liquor.cherry_door": "Cherry Door",
+  "block.liquor.cherry_trapdoor": "Cherry Trapdoor",
+
+  "block.liquor.cherry_standing_sign": "Cherry Standing Sign",
+  "block.liquor.cherry_wall_sign": "Cherry Wall Sign",
+
+  "block.liquor.cherry_hanging_sign": "Cherry Hanging Sign",
+  "block.liquor.cherry_wall_hanging_sign": "Cherry Wall Hanging Sign",
+
+  "item.liquor.cherry_boat": "Cherry Boat",
+  "item.liquor.cherry_chest_boat": "Cherry Chest Boat",
+
+  "block.liquor.cherry_sapling": "Cherry Sapling",
+  "item.liquor.cherry": "Cherry",
+
+  "block.liquor.fermentation": "Fermentation Barrel",
+  "block.liquor.shaker": "Shaker",
+
+  "sounds.liquor.whisky_coke_tequila": "Whisky Cola Tequila",
+
+  "itemgroup.liquors":"Liquors"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "liquor:fermentation",
+  "ingredients": [
+    {
+      "item": "liquor:barley"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "output": {
+    "item": "liquor:beer",
+    "count": 1
+  }
+}
